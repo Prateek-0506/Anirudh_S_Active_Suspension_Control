@@ -576,38 +576,30 @@ Real-Time Telemetry & Visualization
 
 ## Dashboard Interface
 
-> *(Insert Screenshot Here)*
+> <img width="1905" height="937" alt="image" src="https://github.com/user-attachments/assets/e954f0ad-f012-4b6c-87d9-f247f7234fe9" />
+
 
 ---
 
 ## Simulink Architecture
 
-> *(Insert Screenshot Here)*
+> <img width="1804" height="856" alt="Screenshot 2026-05-14 125115" src="https://github.com/user-attachments/assets/151dcd82-86dc-4efe-b85b-09eee5bb204a" />
+
 
 ---
 
-## Vehicle Suspension Animation
+## Simulink Waveform
 
-> *(Insert Screenshot Here)*
+> <img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/e3c1810a-c87f-419c-8e8b-241b386ee74b" />
 
----
-
-## Controlled vs Uncontrolled Response
-
-> *(Insert Screenshot Here)*
 
 ---
 
-## AI Road Classification Telemetry
-
-> *(Insert Screenshot Here)*
-
----
 
 # 👨‍💻 Team Members
 
 - Anirudh S
-- *(Add Remaining Team Members)*
+- Prateek H
 
 ---
 
