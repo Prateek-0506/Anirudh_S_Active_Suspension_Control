@@ -1,4 +1,4 @@
-🚘 Intelligent AI-Powered Predictive Adaptive Active Suspension Control System
+*🚘 Intelligent AI-Powered Predictive Adaptive Active Suspension Control System*
 Real-Time MATLAB & Simulink Based Smart Automotive Suspension Platform
 📌 Project Overview
 
