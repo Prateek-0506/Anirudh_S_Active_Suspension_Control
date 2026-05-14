@@ -581,6 +581,14 @@ Real-Time Telemetry & Visualization
 
 ---
 
+## Real Time Simulation Results
+
+><img width="1919" height="925" alt="Screenshot 2026-05-14 131625" src="https://github.com/user-attachments/assets/34ba731c-02c1-4cc2-8c17-225ea8f1a768" />
+
+
+
+---
+
 ## Simulink Architecture
 
 > <img width="1804" height="856" alt="Screenshot 2026-05-14 125115" src="https://github.com/user-attachments/assets/151dcd82-86dc-4efe-b85b-09eee5bb204a" />
